@@ -1,4 +1,6 @@
-# Sentiment-Analysis-
+# Sentiment Analysis of Google Playstore App reviews ![image](https://user-images.githubusercontent.com/91350558/208844444-7dbafafd-81e9-4c67-b154-b3cf447f9496.png)
+
+
 Performing sentiment analysis of the google play store app reviews. 
 
 Scripting the steps we plan to take toward our project.
